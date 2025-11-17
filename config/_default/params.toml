@@ -97,14 +97,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showSummary = false
-  showViews = false
+  showBreadcrumbs = true
+  showSummary = true
+  showViews = true
   showLikes = false
-  showTableOfContents = false
-  showCards = false
+  showTableOfContents = true
+  showCards = true
   orderByWeight = false
-  groupByYear = true
+  groupByYear = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
@@ -147,11 +147,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
+  websiteid = "2f455b1f-adda-4a9f-a1e6-b1aa84bd8796"
+  domain = "davidkschwob.github.io"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
-  # enableTrackEvent = true
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"

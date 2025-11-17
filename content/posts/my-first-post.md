@@ -1,12 +1,17 @@
 +++
 date = '2025-11-17T08:20:46-05:00'
-draft = true
+draft = false
 title = 'My First Post'
+authors = ['davidkschwob']
+showAuthor = true
+showAuthorBottom = true
 +++
 
 This a test run of my first post.
 I'm not sure what to write here.
 But, I am quite certain that I like bacon.
+
+<!--more-->
 
 Therefore, I'll just do a meatier version of Lorem Ipsum:
 

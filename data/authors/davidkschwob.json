@@ -1,0 +1,9 @@
+{
+  "name": "David K Schwob",
+  "image": "profile.jpg",
+  "bio": "Backend developer with over 20 years experience with RDBM(s)",
+  "social": [
+    { "github": "https://github.com/davidkschwob"},
+    {"instagram": "https://instagramm.com/pickstuffupputstuffdown"}
+    ]
+}
