@@ -62,7 +62,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
@@ -151,7 +151,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   domain = "davidkschwob.github.io"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
-  enableTrackEvent = true
+  enableTrackEvent = false
 
 [selineAnalytics]
   # token = "XXXXXX"
