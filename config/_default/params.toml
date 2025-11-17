@@ -147,7 +147,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "2f455b1f-adda-4a9f-a1e6-b1aa84bd8796"
+  websiteid = "2f455b1f-adda-4a9f-a1e6-b1aa84bd8796"
   # domain = "davidkschwob.github.io"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
