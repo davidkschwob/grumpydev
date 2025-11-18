@@ -1,6 +1,6 @@
 +++
 date = '2025-11-18T05:36:32-05:00'
-draft = true
+draft = false
 title = 'My Third Post'
 authors = ['davidkschwob']
 showAuthor = true
