@@ -2,13 +2,17 @@
 date = '2025-11-14T15:39:15-05:00'
 draft = true
 title = 'About'
+categories = ["About","Bio"]
+tags = ["About","Bio"]
 +++
 
 A little about me ...
 
 <!--more-->
 
-> [ hal ]
-{{< typeit >}}
-I'm afraid I can't do that for you, Dave.
-{{< /typeit >}}
+{{< button href="/help" target="_self" >}}
+PushMe
+{{< /button >}}
+
+.. i tripple dog dare you!
+

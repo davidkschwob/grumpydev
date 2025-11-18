@@ -5,6 +5,8 @@ title = 'My First Post'
 authors = ['davidkschwob']
 showAuthor = true
 showAuthorBottom = true
+categories = ["Blog","Writing"]
+tags = ["Post","Meat","Lorem","Ipsum"]
 +++
 
 This a test run of my first post.
