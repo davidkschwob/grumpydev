@@ -5,3 +5,10 @@ title = 'About'
 +++
 
 A little about me ...
+
+<!--more-->
+
+> [ hal ]
+{{< typeit >}}
+I'm afraid I can't do that for you, Dave.
+{{< /typeit >}}
