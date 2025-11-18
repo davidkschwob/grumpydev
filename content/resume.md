@@ -7,23 +7,65 @@ showTableOfContents = true
 
 ## Summary
 
-Backend developer with over 20 years of experience working with RDBM(s)
+Senior Backend Developer with 20+ years of experience designing and maintaining high-availability
+database systems and data pipelines.  
+
+Proven track record in reducing system latency, improving data integration reliability and leading
+modernization intiatives in Oracle/Linux environments and Agile SDLC.  
+
+Passionate about mentorship, process automation, and driving long-term technical strategy.
 
 ## Skills
 
+### Database/Back-End
 {{< keywordList >}}
   {{< keyword >}} Oracle {{< /keyword >}}
   {{< keyword >}} RDBMS {{< /keyword >}}
   {{< keyword >}} PLSQL {{< /keyword >}}
   {{< keyword >}} SQL {{< /keyword >}}
-  {{< keyword >}} GIT {{< /keyword >}}
-  {{< keyword >}} EDI {{< /keyword >}}
-  {{< keyword >}} UNIX/LINUX {{< /keyword >}}
-  {{< keyword >}} ColdFusion {{< /keyword >}}
-  {{< keyword >}} Powershell {{< /keyword >}}
-  {{< keyword >}} JavaScript {{< /keyword >}}
-  {{< keyword >}} SDLC {{< /keyword >}}
 {{< /keywordList >}}
+
+  - Highly skilled with RDBM(s)
+  - Executed multiple platform migrations
+  - Implemented adhoc data mapping tool entirely in static PL/SQL
+
+### Scripting and Automation
+{{< keywordList >}}
+  {{< keyword >}} UNIX/LINUX {{< /keyword >}}
+  {{< keyword >}} Powershell {{< /keyword >}}
+{{< /keywordList >}}
+
+  - Automation of routing adminstrative work
+  - AZDO build pipeline customization
+  - PXE boot automation
+
+### Dev Tools
+{{< keywordList >}}
+  {{< keyword >}} GIT {{< /keyword >}}
+  {{< keyword >}} SDLC {{< /keyword >}}
+  {{< keyword >}} Azure DEVOPS {{< /keyword >}}
+{{< /keywordList >}}
+
+  - Performed multiple platform migrations
+  - Architected branching scheme and build system(s)
+
+### Integration / Data
+{{< keywordList >}}
+  {{< keyword >}} EDI {{< /keyword >}}
+{{< /keywordList >}}
+
+  - High degree of comfort with EDI transacion sets
+  - Multiple deployments of cannded and custom EDI solutions
+
+### Web / Front-End
+{{< keywordList >}}
+  {{< keyword >}} ColdFusion {{< /keyword >}}
+  {{< keyword >}} JavaScript {{< /keyword >}}
+{{< /keywordList >}}
+
+  - Rapid prototyping in ColdFusion
+  - Internal toolchain development in JS
+
 
 ## Experience
 
