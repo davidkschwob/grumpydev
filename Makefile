@@ -1,2 +1,2 @@
 all:
-	hugo -D server --disableFastRender
+	hugo --baseURL "/"
