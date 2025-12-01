@@ -1,0 +1,9 @@
+services:
+  hugo-site:
+    image: docker.io/hugomods/hugo:std-exts
+    command: server -D --bind 0.0.0.0 --poll 500 --disableFastRender
+    restart: on-failure:5
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/src

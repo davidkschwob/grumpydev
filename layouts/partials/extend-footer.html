@@ -1,0 +1,23 @@
+<script defer>
+const { createApp, ref } = Vue;
+
+createApp({
+    // The data function returns the reactive state
+    setup() {
+        const message = ref('Hello, Vue!');
+        const count = ref(0);
+
+        // A method to modify the state
+        const incrementCount = () => {
+            count.value++;
+        };
+
+        // Expose data and methods to the template
+        return {
+            message,
+            count,
+            incrementCount
+        };
+    }
+}).mount('#app'); // Mount the app to the #app div
+</script>
