@@ -6,7 +6,7 @@ title = 'landing page'
 
 This is my Hugo site.  
 I installed it with the Blowfish theme.  
-I will use it for journaling.  
-And maybe just as a repository for my flippant remarks.   
+I will use it for journaling.   
+And maybe the occasional rant about stuff.  
 
 ;)
