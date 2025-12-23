@@ -1,3 +1,19 @@
 baseURL: https://daveisagrumpydev.org/
 languageCode: en-us
 title: DaveIsAGrumpyDev
+theme: "grumpydev"
+
+# todo: move to config/_default/menus.yaml
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+      
+    - name: About
+      pageRef: /about
+      weight: 20
+
+    - name: Resume
+      pageRef: /resume
+      weight: 30
