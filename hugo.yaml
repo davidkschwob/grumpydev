@@ -1,7 +1,27 @@
 baseURL: https://daveisagrumpydev.org/
 languageCode: en-us
 title: DaveIsAGrumpyDev
-theme: "grumpydev"
+copyright: "(c) 2025 SomeGrumpyDev"
+author: "SomeGrumpyDevNamedDave"
+enableGitInfo: true
+
+theme: "risotto"
+# risotto-specific settings
+params:
+  # theme: "base16-dark"
+  about:
+    title: "daveisagrumpydev.org"
+    description: "A Grumpy Dev"
+    logo: "img/IMG_3111.ico"
+  socialLinks:
+    - icon: "fa-brands fa-github"
+      title: "github"
+      url: "https://github.com/davidkschwob"
+
+
+sectionPagesMenu: "main"
+pagination:
+  pagerSize: 3
 
 # todo: move to config/_default/menus.yaml
 menus:
@@ -17,3 +37,4 @@ menus:
     - name: Resume
       pageRef: /resume
       weight: 30
+ 
