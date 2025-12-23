@@ -8,11 +8,12 @@ enableGitInfo: true
 theme: "risotto"
 # risotto-specific settings
 params:
-  # theme: "base16-dark"
+  theme:
+    palette: "base16-light"
   about:
     title: "daveisagrumpydev.org"
     description: "A Grumpy Dev"
-    logo: "img/IMG_3111.ico"
+    logo: "kolsch-logo.ico"
   socialLinks:
     - icon: "fa-brands fa-github"
       title: "github"
