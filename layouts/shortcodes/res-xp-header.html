@@ -1,0 +1,19 @@
+<div class="border-b-1">
+<div class="flex flex-col md:flex-row md:justify-between items-start md:items-center w-full mb-1">
+  <!-- Left: Date -->
+  <span class="text-sm font-medium text-gray-600 order-2 md:order-1">
+    {{ .Get "date" }}
+  </span>
+  
+  <!-- Center: Title -->
+  <span class="text-lg font-bold text-gray-900 order-1 md:order-2 md:absolute md:left-1/2 md:-translate-x-1/2">
+    {{ .Get "title" }}
+  </span>
+  
+  <!-- Right: Location -->
+  <span class="text-sm italic text-gray-500 order-3">
+    {{ .Get "city" }}
+  </span>
+</div>
+</div>
+

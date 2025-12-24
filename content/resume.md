@@ -52,6 +52,8 @@ Multiple positons held over the past 25 years, resulting in a wide range of skil
 
 ### excellus.com
 timelineItem md="true" icon="code" badge="2022 - present" header="Software Developer 3" subheader="Buffalo, NY" 
+{{< res-xp-header date="2022-present" title="Software Developer 3" city="Buffalo, NY" >}}
+
 
 Sr. Developer for regional health insurance carrier.
 
