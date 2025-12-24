@@ -50,26 +50,22 @@ Passionate about mentorship, process automation, and driving long-term technical
 
 Multiple positons held over the past 25 years, resulting in a wide range of skillsets and know-how.
 
-### excellus.com
-timelineItem md="true" icon="code" badge="2022 - present" header="Software Developer 3" subheader="Buffalo, NY" 
+### [www.excellusbcbs.com](https://web.archive.org/web/20250906113231/https://www.excellusbcbs.com/)
+
 {{< res-xp-header date="2022-present" title="Software Developer 3" city="Buffalo, NY" >}}
 
-
 Sr. Developer for regional health insurance carrier.
-
-[www.excellusbcbs.com](https://web.archive.org/web/20250906113231/https://www.excellusbcbs.com/)
 
   - Customization for medical claims (EDI) clearinghouse
   - Buildout of AZDO pipeline integration with propietary desktop tools
   - Mentoring and evangelizing of full life cycle SDLC and Agile methodologies
 
 
-### valuecentric.com
-timelineItem md="true" icon="code" badge="2006 - 2022" header="Lead Software Engineer" subheader="Buffalo, NY" 
+### [www.valuecentric.com](https://web.archive.org/web/20160417203711/http://www.valuecentric.com/about-us/)
+
+{{< res-xp-header date="2006-2022" title="Lead Sofware Engineer" city="Buffalo, NY" >}}
 
 Lead Software Engineer with pharmaceutical data management company.
-
-[www.valuecentric.com](https://web.archive.org/web/20160417203711/http://www.valuecentric.com/about-us/)
 
   - Designed release branching system for support SDLC
   - Conversion of MySQL-based BI system to Oracle RDBMS

@@ -1,2 +1,5 @@
 @import "tailwindcss";
 @source "../../hugo_stats.json";
+
+/* Custom variant to detect manual .dark class */
+@custom-variant dark (&:where(.dark, .dark *));

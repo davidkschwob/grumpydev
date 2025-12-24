@@ -5,18 +5,19 @@ copyright: "(c) 2025 SomeGrumpyDev"
 author: "SomeGrumpyDevNamedDave"
 enableGitInfo: true
 
-build:
-  buildStats:
-    enable: true
-    disableClasses: false
-    disableIDs: false
-    disableTags: false
+# # ensure that tail
+# build:
+#   buildStats:
+#     enable: true
+#     disableClasses: false
+#     disableIDs: false
+#     disableTags: false
 
 theme: "risotto"
 # risotto-specific settings
 params:
   theme:
-    palette: "base16-dark"
+    palette: "base16-light"
   about:
     title: "daveisagrumpydev.org"
     description: "A Grumpy Dev"
