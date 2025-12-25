@@ -38,13 +38,11 @@ jobs:
         with:
           submodules: recursive
           
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20' # Or your preferred version
-
-      - name: Install Tailwind CSS CLI
-        run: npm install -D tailwindcss @tailwindcss/cli
+      - name: Install Standalone Tailwind CLI
+        run: |
+          curl -sLO github.com
+          chmod +x tailwindcss-linux-x64
+          sudo mv tailwindcss-linux-x64 /usr/local/bin/tailwindcss
 
       - name: Install Hugo CLI
         run: |
