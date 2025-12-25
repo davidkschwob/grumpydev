@@ -40,7 +40,7 @@ jobs:
           
       - name: Install Standalone Tailwind CLI
         run: |
-          curl -sLO github.com
+          curl -sLO https://github.com/tailwindlabs/tailwindcss/releases/download/v4.1.18/tailwindcss-linux-x64
           chmod +x tailwindcss-linux-x64
           sudo mv tailwindcss-linux-x64 /usr/local/bin/tailwindcss
 
