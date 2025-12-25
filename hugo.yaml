@@ -5,13 +5,6 @@ copyright: "(c) 2025 SomeGrumpyDev"
 author: "SomeGrumpyDevNamedDave"
 enableGitInfo: true
 
-# # ensure that tail
-# build:
-#   buildStats:
-#     enable: true
-#     disableClasses: false
-#     disableIDs: false
-#     disableTags: false
 
 theme: "risotto"
 # risotto-specific settings

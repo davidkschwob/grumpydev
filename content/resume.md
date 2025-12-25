@@ -1,6 +1,6 @@
 +++
 date = '2025-11-14T15:26:08-05:00'
-draft = true
+draft = false
 title = 'Resume'
 toc = true
 +++
@@ -37,7 +37,7 @@ Passionate about mentorship, process automation, and driving long-term technical
 ### Integration / Data
 
   - High degree of comfort with EDI transacion sets
-  - Multiple deployments of cannded and custom EDI solutions
+  - Multiple deployments of off-the-self and custom EDI solutions
 
 ### Web / Front-End
 
@@ -72,53 +72,49 @@ Lead Software Engineer with pharmaceutical data management company.
   - Built many-to-one data mapping system in pure PL/SQL
 
 
-### fusedsolutions.com
-timelineItem md="true" icon="code" badge="2002 - 2006" header="Sr IT Engineer" subheader="Potsdam, NY" 
+### [www.fusedsolutions.com](https://web.archive.org/web/20050530014658/http://www.fusedsolutions.com/)
+
+{{< res-xp-header date="2002-2006" title="Sr IT Engineer" city="Potsdam, NY" >}}
 
 Sr Engineer with software services company.
-
-[www.fusedsolutions.com](https://web.archive.org/web/20050530014658/http://www.fusedsolutions.com/)
 
   - Administration of high availability VOIP call center
   - Created staging system for call center's suporting applications
   - Deployed PXE boot server for desktop imaging system.
 
+### [slic.com](https://web.archive.org/web/20021017031449/http://home.slic.com/about/)
 
-### slic.com
-timelineItem md="true" icon="code" badge="2001 - 2002" header="Technical Support" subheader="Potsdam, NY"
+{{< res-xp-header date="2001-2002" title="Technical Support" city="Potsdam, NY" >}}
 
 Tech support with regional ISP
-
-[slic.com](https://web.archive.org/web/20021017031449/http://home.slic.com/about/)
 
   - Fielding of dialup support calls
   - Troubleshooting of small office firewall appliance as 3rd party tech support provider
 
 
-### www.thortech.com
-timelineItem md="true" icon="code" badge="2000 - 2001" header="Senior Programmer" subheader="New York, NY" 
+### [Thor Technologies, Inc.](https://web.archive.org/web/20000816125514/http://www.thortech.com/aboutus.html)
+
+{{< res-xp-header date="2000-2001" title="Senior Programmer" city="New York, NY" >}}
 
 Senior developer with web startup company.
 
-[Thor Technologies, Inc.](https://web.archive.org/web/20000816125514/http://www.thortech.com/aboutus.html)
 
   - Migration of source control system from CVS to ClearCase
   - Reduced system build time from 7 hours to 3 minues
 
+### [Production 451](https://web.archive.org/web/20000815061146/http://production451.com/)
 
-### www.production451.com
-timelineItem md="true" icon="code" badge="2000 - 2000" header="Web Developer III" subheader="New York, NY"
+{{< res-xp-header date="2000-2000" title="Web Developer III" city="New York, NY" >}}
 
 Senior developer with web startup company.
-
-[Production 451](https://web.archive.org/web/20000815061146/http://production451.com/)
 
   - Administration of Oracle/Linux based developmnet environment
   - Built PL/SQL library for use with Oracle reporting tools
 
 
 ### Raytheon
-timelineItem md="true" icon="code" badge="1998 - 1998" header="Technical Staff" subheader="Tewksbury, MA"
+
+{{< res-xp-header date="1998-1998" title="Technical Staff" city="Tewksbury, MA" >}}
 
 Staff resource for DOD contractor.  
 
@@ -128,7 +124,8 @@ Staff resource for DOD contractor.
 
 
 ### Azerty
-timelineItem md="true" icon="code" badge="1996 - 1998" header="Programmer/Analyst" subheader="Buffalo, NY"
+
+{{< res-xp-header date="1996-1998" title="Programmer/Analyst" city="Buffalo, NY" >}}
 
 Developer working on home-grown inventory management system for an office product(s) wholesaler.
 
